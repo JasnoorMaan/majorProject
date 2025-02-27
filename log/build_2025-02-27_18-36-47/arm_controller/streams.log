@@ -1,0 +1,8 @@
+[0.022s] Invoking command in '/home/electric/ros2_ws/build/arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_controller -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_controller
+[0.030s] [31mCMake Error at CMakeLists.txt:11:
+[0.030s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.031s]   "install{".
+[0.031s] 
+[0.031s] [0m
+[0.031s] -- Configuring incomplete, errors occurred!
+[0.264s] Invoked command in '/home/electric/ros2_ws/build/arm_controller' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_controller -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_controller

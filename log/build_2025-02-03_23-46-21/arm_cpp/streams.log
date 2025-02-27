@@ -1,0 +1,42 @@
+[0.015s] Invoking command in '/home/electric/ros2_ws/build/arm_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_cpp -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_cpp
+[0.263s] -- The C compiler identification is GNU 11.4.0
+[0.446s] -- The CXX compiler identification is GNU 11.4.0
+[0.461s] -- Detecting C compiler ABI info
+[0.555s] -- Detecting C compiler ABI info - done
+[0.563s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.563s] -- Detecting C compile features
+[0.563s] -- Detecting C compile features - done
+[0.567s] -- Detecting CXX compiler ABI info
+[0.685s] -- Detecting CXX compiler ABI info - done
+[0.703s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.704s] -- Detecting CXX compile features
+[0.705s] -- Detecting CXX compile features - done
+[0.730s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.899s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.034s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.145s] -- Added test 'lint_cmake' to check CMake code style
+[1.146s] -- Added test 'xmllint' to check XML markup files
+[1.148s] -- Configuring done
+[1.151s] -- Generating done
+[1.153s] -- Build files have been written to: /home/electric/ros2_ws/build/arm_cpp
+[1.157s] Invoked command in '/home/electric/ros2_ws/build/arm_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_cpp -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_cpp
+[1.160s] Invoking command in '/home/electric/ros2_ws/build/arm_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_cpp -- -j12 -l12
+[1.224s] Invoked command in '/home/electric/ros2_ws/build/arm_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_cpp -- -j12 -l12
+[1.244s] Invoking command in '/home/electric/ros2_ws/build/arm_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_cpp
+[1.262s] -- Install configuration: ""
+[1.262s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/package_run_dependencies/arm_cpp
+[1.263s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/parent_prefix_path/arm_cpp
+[1.263s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/ament_prefix_path.sh
+[1.264s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/ament_prefix_path.dsv
+[1.264s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/path.sh
+[1.264s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/path.dsv
+[1.264s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.bash
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.sh
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.zsh
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.dsv
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/package.dsv
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/packages/arm_cpp
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/cmake/arm_cppConfig.cmake
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/cmake/arm_cppConfig-version.cmake
+[1.265s] -- Installing: /home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/package.xml
+[1.268s] Invoked command in '/home/electric/ros2_ws/build/arm_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_cpp

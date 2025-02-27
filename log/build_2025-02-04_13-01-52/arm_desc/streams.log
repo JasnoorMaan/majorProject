@@ -1,0 +1,42 @@
+[0.017s] Invoking command in '/home/electric/ros2_ws/build/arm_desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_desc -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_desc
+[0.089s] -- The C compiler identification is GNU 11.4.0
+[0.150s] -- The CXX compiler identification is GNU 11.4.0
+[0.159s] -- Detecting C compiler ABI info
+[0.240s] -- Detecting C compiler ABI info - done
+[0.247s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.247s] -- Detecting C compile features
+[0.248s] -- Detecting C compile features - done
+[0.250s] -- Detecting CXX compiler ABI info
+[0.335s] -- Detecting CXX compiler ABI info - done
+[0.341s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.342s] -- Detecting CXX compile features
+[0.342s] -- Detecting CXX compile features - done
+[0.345s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.537s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.641s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.742s] -- Added test 'lint_cmake' to check CMake code style
+[0.744s] -- Added test 'xmllint' to check XML markup files
+[0.745s] -- Configuring done
+[0.748s] -- Generating done
+[0.750s] -- Build files have been written to: /home/electric/ros2_ws/build/arm_desc
+[0.755s] Invoked command in '/home/electric/ros2_ws/build/arm_desc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_desc -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_desc
+[0.758s] Invoking command in '/home/electric/ros2_ws/build/arm_desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_desc -- -j12 -l12
+[0.818s] Invoked command in '/home/electric/ros2_ws/build/arm_desc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_desc -- -j12 -l12
+[0.821s] Invoking command in '/home/electric/ros2_ws/build/arm_desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_desc
+[0.827s] -- Install configuration: ""
+[0.828s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/ament_index/resource_index/package_run_dependencies/arm_desc
+[0.828s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/ament_index/resource_index/parent_prefix_path/arm_desc
+[0.828s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/environment/ament_prefix_path.sh
+[0.828s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/environment/ament_prefix_path.dsv
+[0.828s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/environment/path.sh
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/environment/path.dsv
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/local_setup.bash
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/local_setup.sh
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/local_setup.zsh
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/local_setup.dsv
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/package.dsv
+[0.829s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/ament_index/resource_index/packages/arm_desc
+[0.830s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/cmake/arm_descConfig.cmake
+[0.830s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/cmake/arm_descConfig-version.cmake
+[0.830s] -- Installing: /home/electric/ros2_ws/install/arm_desc/share/arm_desc/package.xml
+[0.833s] Invoked command in '/home/electric/ros2_ws/build/arm_desc' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_desc

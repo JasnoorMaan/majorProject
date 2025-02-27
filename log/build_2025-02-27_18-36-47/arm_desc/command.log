@@ -1,0 +1,1 @@
+Invoking command in '/home/electric/ros2_ws/build/arm_desc': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_desc -- -j12 -l12

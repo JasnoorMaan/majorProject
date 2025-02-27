@@ -1,0 +1,15 @@
+/home/electric/ros2_ws/src/install/arm_controller/share/ament_index/resource_index/package_run_dependencies/arm_controller
+/home/electric/ros2_ws/src/install/arm_controller/share/ament_index/resource_index/parent_prefix_path/arm_controller
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/environment/ament_prefix_path.sh
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/environment/ament_prefix_path.dsv
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/environment/path.sh
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/environment/path.dsv
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/local_setup.bash
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/local_setup.sh
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/local_setup.zsh
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/local_setup.dsv
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/package.dsv
+/home/electric/ros2_ws/src/install/arm_controller/share/ament_index/resource_index/packages/arm_controller
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/cmake/arm_controllerConfig.cmake
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/cmake/arm_controllerConfig-version.cmake
+/home/electric/ros2_ws/src/install/arm_controller/share/arm_controller/package.xml

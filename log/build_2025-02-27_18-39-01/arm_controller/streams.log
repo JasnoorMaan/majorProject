@@ -1,0 +1,44 @@
+[0.017s] Invoking command in '/home/electric/ros2_ws/build/arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_controller -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_controller
+[0.084s] -- The C compiler identification is GNU 11.4.0
+[0.144s] -- The CXX compiler identification is GNU 11.4.0
+[0.153s] -- Detecting C compiler ABI info
+[0.240s] -- Detecting C compiler ABI info - done
+[0.247s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.247s] -- Detecting C compile features
+[0.247s] -- Detecting C compile features - done
+[0.250s] -- Detecting CXX compiler ABI info
+[0.356s] -- Detecting CXX compiler ABI info - done
+[0.373s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.373s] -- Detecting CXX compile features
+[0.374s] -- Detecting CXX compile features - done
+[0.381s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.575s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.675s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.771s] -- Added test 'lint_cmake' to check CMake code style
+[0.781s] -- Added test 'xmllint' to check XML markup files
+[0.783s] -- Configuring done
+[0.799s] -- Generating done
+[0.803s] -- Build files have been written to: /home/electric/ros2_ws/build/arm_controller
+[0.812s] Invoked command in '/home/electric/ros2_ws/build/arm_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake /home/electric/ros2_ws/src/arm_controller -DCMAKE_INSTALL_PREFIX=/home/electric/ros2_ws/install/arm_controller
+[0.815s] Invoking command in '/home/electric/ros2_ws/build/arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_controller -- -j12 -l12
+[0.874s] Invoked command in '/home/electric/ros2_ws/build/arm_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --build /home/electric/ros2_ws/build/arm_controller -- -j12 -l12
+[0.876s] Invoking command in '/home/electric/ros2_ws/build/arm_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_controller
+[0.884s] -- Install configuration: ""
+[0.884s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/config
+[0.884s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/config/arm_controllers.yaml
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/ament_index/resource_index/package_run_dependencies/arm_controller
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/ament_index/resource_index/parent_prefix_path/arm_controller
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/environment/ament_prefix_path.sh
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/environment/ament_prefix_path.dsv
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/environment/path.sh
+[0.885s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/environment/path.dsv
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/local_setup.bash
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/local_setup.sh
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/local_setup.zsh
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/local_setup.dsv
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/package.dsv
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/ament_index/resource_index/packages/arm_controller
+[0.886s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/cmake/arm_controllerConfig.cmake
+[0.887s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/cmake/arm_controllerConfig-version.cmake
+[0.887s] -- Installing: /home/electric/ros2_ws/install/arm_controller/share/arm_controller/package.xml
+[0.890s] Invoked command in '/home/electric/ros2_ws/build/arm_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/electric/ros2_ws/install/arm_py:/opt/ros/humble /usr/bin/cmake --install /home/electric/ros2_ws/build/arm_controller

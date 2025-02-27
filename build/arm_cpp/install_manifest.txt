@@ -1,0 +1,15 @@
+/home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/package_run_dependencies/arm_cpp
+/home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/parent_prefix_path/arm_cpp
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/ament_prefix_path.sh
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/ament_prefix_path.dsv
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/path.sh
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/environment/path.dsv
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.bash
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.sh
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.zsh
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/local_setup.dsv
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/package.dsv
+/home/electric/ros2_ws/install/arm_cpp/share/ament_index/resource_index/packages/arm_cpp
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/cmake/arm_cppConfig.cmake
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/cmake/arm_cppConfig-version.cmake
+/home/electric/ros2_ws/install/arm_cpp/share/arm_cpp/package.xml
