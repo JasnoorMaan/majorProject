@@ -1,9 +1,0 @@
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/uninstall.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/arm_desc_uninstall.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/test.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/edit_cache.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/rebuild_cache.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/list_install_components.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/install.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/install/local.dir
-/home/electric/ros2_ws/src/build/arm_desc/CMakeFiles/install/strip.dir
